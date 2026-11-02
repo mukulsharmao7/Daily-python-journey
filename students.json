@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Amit",
+        "marks": 82,
+        "city": "Bhopal"
+    },
+    {
+        "name": "Riya",
+        "marks": 91,
+        "city": "Indore"
+    },
+    {
+        "name": "Sam",
+        "marks": 67,
+        "city": "Bhopal"
+    },
+    {
+        "name": "Neha",
+        "marks": 74,
+        "city": "Indore"
+    },
+    {
+        "name": "Karan",
+        "marks": 58,
+        "city": "Bhopal"
+    }
+]

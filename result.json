@@ -1,0 +1,15 @@
+{
+    "names": [
+        "Amit",
+        "Riya",
+        "Sam",
+        "Neha",
+        "Karan"
+    ],
+    "average": 74.4,
+    "above_average": [
+        "Amit",
+        "Riya"
+    ],
+    "bhopal_count": 3
+}
