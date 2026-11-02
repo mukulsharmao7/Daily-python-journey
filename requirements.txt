@@ -1,0 +1,9 @@
+numpy
+opencv-python
+matplotlib
+pandas
+requests
+beautifulsoup4
+pytest
+ipykernel
+python-dotenv
